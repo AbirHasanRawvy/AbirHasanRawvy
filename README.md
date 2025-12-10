@@ -5,5 +5,5 @@ Hello! This is "ABIR HASAN". 👋
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning MERNstack, Graphic Design
+- 🌱 I’m currently learning MERNstack, Graphic Design, AI(ML, DL, LLMs)
 - 📫 How to reach me: abirhasanrawvy@gmail.com
