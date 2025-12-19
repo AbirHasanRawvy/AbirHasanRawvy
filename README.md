@@ -1,5 +1,6 @@
 # Hello! This is "ABIR HASAN". 👋
 
+## Hardworker and Disciplined
 
 **AbirHasanRawvy/AbirHasanRawvy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
