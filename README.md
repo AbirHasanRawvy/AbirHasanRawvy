@@ -1,4 +1,4 @@
-# align"center" Hello! This is "ABIR HASAN". 👋
+# Hello! This is "ABIR HASAN". 👋
 
 ### Hardworker and Disciplined
 
