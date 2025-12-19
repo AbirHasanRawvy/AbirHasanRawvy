@@ -6,4 +6,4 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning <b> MERNstack, Graphic Design, AI(ML, DL, LLMs) </b>
-- 📫 How to reach me: <a href "abirhasanrawvy@gmail.com"> </a>
+- 📫 How to reach me: href "abirhasanrawvy@gmail.com"
