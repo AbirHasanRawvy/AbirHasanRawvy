@@ -7,4 +7,10 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning <b> MERNstack, Graphic Design, AI(ML, DL, LLMs) </b>
+- 👨‍💻 All of my projects are available at: https://github.com/AbirHasanRawvy
 - 📫 How to reach me: abirhasanrawvy@gmail.com
+
+### Connect With Me:
+www.linkedin.com/in/
+abir-hasan-8b3588336
+
