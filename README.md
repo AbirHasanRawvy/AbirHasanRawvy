@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 <b>www.linkedin.com/in/abir-hasan-8b3588336</b>
 
 ### 📊 GeeksforGeeks Profile:
-<b>https://www.geeksforgeeks.org/profile/khjr2ualh</b>
+<b>https://www.geeksforgeeks.org/profile/khjr2ualh</b><br>
+
+<b>"I believe in clean code, test-driven development, and responsive web UIs."</b> - Cory House.
 
