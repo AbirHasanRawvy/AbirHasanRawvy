@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 - 👨‍💻 All of my projects are available at: https://github.com/AbirHasanRawvy</b>
 - 📫 How to reach me: <b>abirhasanrawvy@gmail.com</b>
 
-### Connect With Me:
+# Connect With Me:
 <b>www.linkedin.com/in/abir-hasan-8b3588336</b>
+
+# 📊 GeeksforGeeks Profile:
+<b>https://www.geeksforgeeks.org/profile/khjr2ualh</b>
 
