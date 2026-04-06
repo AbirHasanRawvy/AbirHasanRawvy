@@ -13,7 +13,7 @@
 - 📫 How to reach me: <b>abirhasanrawvy@gmail.com</b>
 
 ### Profile View
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
+![Views](https://u8views.com/api/v1/github/profiles/YOUR_GITHUB_ID/views/width-green.svg)
 
 ### Connect With Me:
 <b>www.linkedin.com/in/abir-hasan-8b3588336</b>
