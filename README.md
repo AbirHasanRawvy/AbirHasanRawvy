@@ -17,7 +17,7 @@
 
 ### Connect With Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Abir Hasan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AbirHasan)
 
 ### 📊 GeeksforGeeks Profile:
 <b>https://www.geeksforgeeks.org/profile/khjr2ualh</b><br>
