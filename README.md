@@ -1,6 +1,10 @@
-#                                                Hello! This is "ABIR HASAN". 👋
+<h1 align="center">Hi 👋, "I'm ABIR HASAN"</h1>
 
-###                                             🚀Hardworker and Disciplined
+<h3 align="center">Hardworker and quick learner</h3>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=AbirHasanRawvy&label=Profile%20views&color=0e75b6&style=flat" alt="AbirHasanRawvyl" />
+</p>
 
 **AbirHasanRawvy/AbirHasanRawvy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
