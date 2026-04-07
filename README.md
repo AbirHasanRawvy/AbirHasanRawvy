@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, "I'm ABIR HASAN"</h1>
 
-<h3 align="center">Hardworker and quick learner</h3>
+<h3 align="center">🚀 Hardworker and quick learner</h3>
 
 **AbirHasanRawvy/AbirHasanRawvy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
