@@ -20,7 +20,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AbirHasan)
 
 ### 📊 GeeksforGeeks Profile:
-<b>https://www.geeksforgeeks.org/profile/khjr2ualh</b><br>
+[AbirHasanRawvy](https://www.geeksforgeeks.org/profile/khjr2ualh)
 
 <b>"I believe in clean code, test-driven development, and responsive web UIs."</b> - Cory House.
 
