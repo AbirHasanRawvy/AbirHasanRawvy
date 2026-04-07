@@ -6,7 +6,7 @@
 <img src="https://komarev.com/ghpvc/?username=AbirHasanRawvy&label=Profile%20views&color=0e75b6&style=flat" alt="AbirHasanRawvy" />
 </p>
 
-**AbirHasanRawvy/AbirHasanRawvy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
 ### 🔎 About Me
 ###### Here are some ideas to get you started:
@@ -15,6 +15,7 @@
 - 💡 Passionate about building <b>full-stack solutions & creative problem-solving.</b>
 - 📁  All of my projects are available at: https://github.com/AbirHasanRawvy</b>
 - 📫 How to reach me: <b>abirhasanrawvy@gmail.com</b>
+---
 ### Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AbirHasan)
 
