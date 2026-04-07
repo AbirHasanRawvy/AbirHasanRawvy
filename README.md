@@ -7,6 +7,7 @@
 </p>
 
 ---
+
 ### 🔎 About Me
 ###### Here are some ideas to get you started:
 
@@ -15,10 +16,12 @@
 - 📁  All of my projects are available at: https://github.com/AbirHasanRawvy</b>
 - 📫 How to reach me: <b>abirhasanrawvy@gmail.com</b>
 ---
+
 ### Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AbirHasan)
 
 ---
+
 ### Languages and Tools:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nestjs,mongodb,mysql,postgres,docker,git,postman,python,php" />
@@ -28,11 +31,13 @@
 </p>
 
 ---
+
 ### 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbirHasanRawvyE&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbirHasanRawvy&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
 </p>
+
 ---
 
 ### 📊 GeeksforGeeks Profile:
