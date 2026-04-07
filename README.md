@@ -5,7 +5,6 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=AbirHasanRawvy&label=Profile%20views&color=0e75b6&style=flat" alt="AbirHasanRawvy" />
 </p>
-
 ---
 
 ### 🔎 About Me
@@ -28,6 +27,12 @@
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,vite,firebase,vercel" />
 </p>
 
+---
+### 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
+</p>
 ---
 ### 📊 GeeksforGeeks Profile:
 <p align="center">
