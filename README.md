@@ -33,7 +33,9 @@
 ---
 
 ### 📈 GitHub Activity
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbirHasanRawvy&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</p>
 
 
 ---
