@@ -50,7 +50,7 @@
 ---
 
 <p align="center">
-  <i>“I believe in clean code, test-driven development, and responsive web UIs.”</i> <br>
+  <i><b>“I believe in clean code, test-driven development, and responsive web UIs.”</b>b</i> <br>
   — Cory House
 </p>
 
